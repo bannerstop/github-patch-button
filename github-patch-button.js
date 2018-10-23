@@ -2,7 +2,7 @@
 // @name         GitHub Patch-Button
 // @namespace    https://www.bannerstop.com/
 // @version      0.1
-// @author       You
+// @author       mluex
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
 // @match        https://github.com/*/commit/*
 // @grant        none

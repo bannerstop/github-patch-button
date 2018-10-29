@@ -11,7 +11,7 @@
 (function() {
     'use strict';
 
-    $(document).ready(function() {
+    $(window).load(function() {
         var permanentLinkElem = $('a.js-permalink-shortcut');
         if(permanentLinkElem.length > 0) {
             permanentLinkElem = permanentLinkElem.first();
